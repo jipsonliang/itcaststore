@@ -11,7 +11,7 @@
   
 # Java class files  
 *.class  
-*.jar  
+#*.jar  
   
 # generated files  
 bin/  
